@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TwoWordsSameHashCode
+comment0.text=\r\n\ \ \ Searches\ for\ words\ with\ the\ same\ hash\ code\r\n\ \ \ based\ on\ the\ filename.\r\n
+comment1.params=filename
+comment1.target=java.util.Map\ generateHashMap(java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ Makes\ a\ hash\ code\ to\ string\ map\ based\ on\ the\ words\ in\ the\ specified\ file\r\n\ \ \ \ \ \ @param\ filename\ the\ filename\ to\ read\ words\ from\r\n\ \ \ \ \ \ @return\ a\ hash\ map\ mapping\ hash\ values\ to\ words\ found\ in\ the\ filename\r\n
+comment2.params=hashCodes
+comment2.target=void\ printSameCodes(java.util.Map)
+comment2.text=\r\n\ \ \ \ \ \ Prints\ all\ the\ words\ with\ the\ same\ hash\ codes\r\n\ \ \ \ \ \ @param\ hashCodes\ the\ map\ to\ print\ from\r\n
+numComments=3

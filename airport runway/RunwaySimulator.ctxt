@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RunwaySimulator
+comment0.text=\r\n\ \ \ Class\ for\ simulating\ a\ runway.\r\n
+comment1.params=
+comment1.target=RunwaySimulator()
+comment1.text=\r\n\ \ \ \ \ \ Constructor.\r\n
+comment2.params=
+comment2.target=void\ display()
+comment2.text=\r\n\ \ \ \ \ \ display\ the\ queues\r\n
+comment3.params=flightSymbol
+comment3.target=void\ addTakeOff(java.lang.String)
+comment3.text=\r\n\ \ \ \ \ \ Add\ a\ flight\ symbol\ to\ the\ taking\ off\ queue.\r\n\ \ \ \ \ \ @param\ flightSymbol\ the\ flight\ symbol.\r\n
+comment4.params=flightSymbol
+comment4.target=void\ addLanding(java.lang.String)
+comment4.text=\r\n\ \ \ \ \ \ Add\ a\ flight\ symbol\ to\ the\ landing\ queue.\r\n\ \ \ \ \ \ @param\ flightSymbol\ the\ flight\ symbol.\r\n
+comment5.params=
+comment5.target=void\ handleNextAction()
+comment5.text=\r\n\ \ \ \ \ \ Handle\ the\ next\ action.\r\n
+numComments=6
